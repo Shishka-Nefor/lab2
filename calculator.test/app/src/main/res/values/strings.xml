@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Savitsliy323</string>
+     <string name="infoA">A:</string>
+    <string name="infoB">B:</string>
+    <string name="infoRes">Result:</string>
+    <string name="infoAdd">Add</string>
+    <string name="infoSub">Subtract</string>
+    <string name="infoMult">Multiply</string>
+    <string name="infoDiv">Divide</string>
+    <string name="infoSin">Sin()</string>
+    <string name="infoCos">Cos()</string>
+    <string name="infoTan">Tg()</string>
+    <string name="infoCtg">Ctg()</string>
+    <string name="infoPow">^2</string>
+    <string name="infoSqrt">Sqrt</string>
+</resources>
